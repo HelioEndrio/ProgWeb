@@ -1,0 +1,23 @@
+div.blue{
+	position: absolute;
+	left:0px;
+
+}
+
+div.yellow{
+	position: absolute;
+	left: 100px;
+
+}
+
+div.red{
+	position: absolute;
+	left:200px;
+
+}
+div.green{
+	position: absolute;
+	top:158px;
+	left:100px;
+
+}
