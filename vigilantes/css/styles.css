@@ -1,0 +1,37 @@
+.reserva {
+  background-image: url("assets/reserva.png");
+  position: absolute;
+  left: 0;
+  top: 54px;
+  z-index: 1;
+}
+
+.foco-incendio {
+  background-image: url("assets/foco.gif");
+  position: absolute;
+  z-index: 2;
+}
+
+.foco-caveira {
+  background-image: url("assets/caveira.gif");
+  position: absolute;
+  z-index: 2;
+}
+
+.vida {
+  background-image: url("assets/arvore.png");
+  z-index: 2;
+}
+
+.box {
+  position: absolute;
+  z-index: 1;
+}
+
+.pontos {
+  position: absolute;
+  font-size: 50px;
+  text-align: center;
+  color: black;
+  z-index: 2;
+}
